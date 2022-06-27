@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book title="Замок">
+    <nameOfAuthor>Франц</nameOfAuthor>
+    <surnameOfAuthor>Кафка</surnameOfAuthor>
+    <price>350</price>
+    <dateOfPublication>2015.07.20</dateOfPublication>
+  </book>
+  <book title="Отелло">
+    <nameOfAuthor>Вільям</nameOfAuthor>
+    <surnameOfAuthor>Шекспір</surnameOfAuthor>
+    <price>200</price>
+    <dateOfPublication>2016.06.24</dateOfPublication>
+  </book>
+  <book title="Король Лір">
+    <nameOfAuthor>Вільям</nameOfAuthor>
+    <surnameOfAuthor>Шекспір</surnameOfAuthor>
+    <price>600</price>
+    <dateOfPublication>2016.01.02</dateOfPublication>
+  </book>
+  <book title="Гамлет">
+    <nameOfAuthor>Вільям</nameOfAuthor>
+    <surnameOfAuthor>Шекспір</surnameOfAuthor>
+    <price>400</price>
+    <dateOfPublication>2016.11.03</dateOfPublication>
+  </book>
+  <book title="Сон">
+    <nameOfAuthor>Тарас</nameOfAuthor>
+    <surnameOfAuthor>Шевченко</surnameOfAuthor>
+    <price>1000</price>
+    <dateOfPublication>2017.07.31</dateOfPublication>
+  </book>
+</books>

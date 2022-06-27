@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<authors>
+  <author>
+    <name>Франц</name>
+    <surname>Кафка</surname>
+    <yearOfBirth>1883</yearOfBirth>
+  </author>
+  <author>
+    <name>Вільям</name>
+    <surname>Шекспір</surname>
+    <yearOfBirth>1564</yearOfBirth>
+  </author>
+  <author>
+    <name>Тарас</name>
+    <surname>Шевченко</surname>
+    <yearOfBirth>1814</yearOfBirth>
+  </author>
+  <author>
+    <name>Ліна</name>
+    <surname>Костенко</surname>
+    <yearOfBirth>1930</yearOfBirth>
+  </author>
+</authors>
